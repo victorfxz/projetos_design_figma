@@ -1,8 +1,8 @@
-# portfolio_design
+# Projetos de Design com o FIGMA
 
 Projeto utilizando Figma para criação de um Aplicativo e um Página WEB:
 
-CineLanche - Um Aplicativo para o espaço de compra de lanches em um Cinema:
+<color=red> CineLanche </color> - Um Aplicativo para o espaço de compra de lanches em um Cinema:
 
 <div aling="center">
 <img src="https://github.com/victorfxz/portfolio_design/blob/main/Fluxo/CineLanche.gif?raw=true" />
